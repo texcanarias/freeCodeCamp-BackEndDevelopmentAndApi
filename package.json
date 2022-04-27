@@ -1,3 +1,9 @@
 {
-	"author" : "Antonio Teixeira"
+	"name": "fcc-learn-npm-package-json",
+	"author" : "Antonio Teixeira",
+	"version" : "0.0",
+	"repository": {
+		"type": "git",
+		"url": "https://texcanarias@bitbucket.org/texcanarias/freecodecamp-backenddevelopmentandapi.git"
+	}
 }
